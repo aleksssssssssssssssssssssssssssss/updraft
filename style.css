@@ -543,6 +543,14 @@ h1 {
   transition: opacity 0.3s ease;
 }
 
+@media (max-width: 1050px) {
+  .greeting {
+    letter-spacing: 3.5rem;
+  }
+
+
+}
+
 
 @media (max-width: 780px) {
   .greeting {
